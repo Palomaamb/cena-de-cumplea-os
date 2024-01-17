@@ -1,11 +1,1 @@
-# javascript-sandbox
-
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
-
-Pasos:
-
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+![Captura de pantalla (53)](https://github.com/Palomaamb/cena-de-cumplea-os/assets/143645002/a37e11b7-8235-4073-b1c2-c0c8a07fd3f0)
